@@ -1,1 +1,1 @@
-[CV](https://lazurniko.github.io/CV/)
+[DEMO LINK](https://lazurniko.github.io/CV/)
